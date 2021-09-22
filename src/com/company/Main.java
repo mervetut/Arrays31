@@ -15,6 +15,3 @@ public class Main {
         System.out.println(result);
     }
 }
-//if (array[0] >= array[1] &&
-//                array[n - 2] >= array[n - 1]);
-//        System.out.println();
